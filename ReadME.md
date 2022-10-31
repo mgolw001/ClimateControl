@@ -1,5 +1,5 @@
 # Temperature Control Bot
-## User Guide
+## Overview
 The input of this system is the ambient temperature that is sensed by the DHT11 Temperature
 and Humidity Module. This value is stored as the sole input and is a shared variable so that all
 the concurrent state machines can use this value. When the arduino is given power, it
