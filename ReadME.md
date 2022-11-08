@@ -27,4 +27,5 @@ off.
 - DHT Library
 
 ## Wiring Diagram
+![](images/120b_tinkercad.png)
 ![](images/cs120b_pic.png)
