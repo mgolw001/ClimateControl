@@ -25,3 +25,5 @@ off.
 
 ## Software Libraries
 - DHT Library
+
+## Wiring Diagram
