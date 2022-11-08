@@ -27,4 +27,4 @@ off.
 - DHT Library
 
 ## Wiring Diagram
-![](images/120b_pic.png)
+![](images/cs120b_pic.png)
