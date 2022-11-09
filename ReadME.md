@@ -1,4 +1,4 @@
-# Temperature Control Bot
+# Climate Control
 ## Overview
 The input of this system is the ambient temperature that is sensed by the DHT11 Temperature
 and Humidity Module. This value is stored as the sole input and is a shared variable so that all
